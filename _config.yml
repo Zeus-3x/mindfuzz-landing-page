@@ -52,11 +52,11 @@ features                                  :
 
   - title                                 : Last.FM Integration
     description                           : Scrobble your plays and get personalized artist recommendations based on your listening habits.
-    fontawesome_icon_name                 : chart-column
+    fontawesome_icon_name                 : chart-simple
 
   - title                                 : Lidarr Integration
     description                           : Search for new artists and seamlessly add them to your music library through Lidarr.
-    fontawesome_icon_name                 : searchengin
+    fontawesome_icon_name                 : magnifying-glass
   
   - title                                 : Pre-Caching
     description                           : Smart pre-caching ensures your music is ready when you are, for seamless playback.
